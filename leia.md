@@ -1,0 +1,1 @@
+Seja muit bem vindo, use esse algoritmo pra resolver questões relacionadas ao Teorema de Pitágoras!
